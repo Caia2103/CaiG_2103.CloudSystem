@@ -7,4 +7,4 @@
 - [日本語版利用規約](terms_ja.md)
 - [English Version terms](terms_en.md)
 ## クレジット
-- [クレジット/Credit](credit.md)
+- [クレジット/Credit](Credit.md)
